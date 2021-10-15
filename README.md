@@ -1,1 +1,1 @@
-#Shadhin i'm Ready!
+# It is a simple tasks app
